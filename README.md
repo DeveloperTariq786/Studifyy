@@ -1,1 +1,1 @@
-# StudifyyFlutter
+# Studifyy
